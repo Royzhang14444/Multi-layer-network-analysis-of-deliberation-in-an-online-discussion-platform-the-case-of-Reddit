@@ -8,7 +8,7 @@ The repository includes:
 - Links to the original Reddit posts used in this study, so that the data can be downloaded directly from the source if needed.
 - Processed datasets from two representative subreddits: **AITAH** and **Europe**, which were used in the analyses presented in the paper.  
   For privacy reasons, usernames have been normalised to numeric identifiers, and due to size limitations, the original comment text is not included.
-- R scripts for data downloading (via the vosonSML package) and deliberation metrics analysis.
+- R scripts for deliberation metrics analysis.
 
 ## Repository structure
 
